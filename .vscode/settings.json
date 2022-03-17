@@ -76,6 +76,7 @@
         "variant": "cpp",
         "queue": "cpp",
         "climits": "cpp",
-        "limits.h": "c"
+        "limits.h": "c",
+        "strstream": "cpp"
     }
 }
